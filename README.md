@@ -16,6 +16,4 @@ The app allows educators and institutions to automatically grade multiple-choice
 - Download results as a CSV file  
 - Can be deployed on Google Colab using **ngrok** or run locally  
 
----
 
-## 📂 Project Structure
